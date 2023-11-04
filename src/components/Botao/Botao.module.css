@@ -1,0 +1,16 @@
+.bttn {
+    padding: 16px;
+    background-color: var(--elementosColoridos);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--corMaisClara);
+    cursor: pointer;
+}
+
+.bttn:hover {
+    transform: scale(1.04);
+    transition: ease-in-out 0.2s;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.250);
+}

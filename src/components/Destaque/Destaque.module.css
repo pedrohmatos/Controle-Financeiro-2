@@ -1,0 +1,20 @@
+.destaque {
+    background-color: var(--corMaisClara);
+    width: 300px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.300);
+    border-radius: 10px;
+    padding: 16px;
+}
+
+.destaque>h2 {
+    color: #0B1323;
+    text-align: center;
+}
+
+.destaque>div {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 16px;
+    word-break: break-all;
+}

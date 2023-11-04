@@ -1,0 +1,21 @@
+@media print {
+    @page {
+        margin: auto auto 0 auto;
+    }
+
+    .App>header {
+        display: none;
+    }
+
+    .valores {
+        display: none;
+    }
+
+    .relatorio>div {
+        display: none;
+    }
+
+    .App>footer {
+        display: none;
+    }
+}

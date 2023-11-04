@@ -1,38 +1,88 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  justify-content: space-between;
+}
+
+.App>header>h1 {
+  text-align: center;
+  background-color: var(--elementosColoridos);
+  color: var(--corMaisClara);
+  font-weight: 800;
+  height: 200px;
+  padding: 50px;
+}
+
+.App>header>ul {
+  display: flex;
+  list-style: none;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-top: -32px;
 }
 
-.App-link {
-  color: #61dafb;
+.valores {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 32px;
+  flex-wrap: wrap;
+  width: 80%;
+  padding: 24px;
+  margin: 50px auto;
+  background-color: var(--corMaisClara);
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.250);
+  border-radius: 5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.inputs {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.radio {
+  display: flex;
+  gap: 10px;
+}
+
+.modalAlert {
+  background-color: var(--elementosColoridos);
+}
+
+.relatorio {
+  width: fit-content;
+  margin: 32px auto;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  background-color: transparent;
+  gap: 16px;
+}
+
+.relatorio>ul {
+  list-style: none;
+}
+
+.App>main {
+  color: var(--letraEscura);
+}
+
+.App>footer {
+  background-color: var(--elementosColoridos);
+  color: var(--corMaisClara);
+  text-align: center;
+  padding: 7px;
+}
+
+.App>footer>p>a {
+  color: var(--corMaisClara);
+  font-weight: 600;
+}
+
+@media screen and (max-width: 1130px) {
+  .relatorio {
+    width: fit-content;
+  }   
 }
