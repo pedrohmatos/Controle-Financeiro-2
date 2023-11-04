@@ -43,7 +43,6 @@ Tenho 20 anos, moro na Bahia e sou apaixonado pelo ambiente de tecnologia. Adoro
 
 Entre em contato comigo:  
 
-<a href="https://www.linkedin.com/in/pedro-matos-7b8a50287" target="_blank" 
-rel="noopener noreferrer">LinkedIn<a/>  
+<a href="https://www.linkedin.com/in/pedro-matos-7b8a50287" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
 
 <pedroheunapolis@gmail.com>
