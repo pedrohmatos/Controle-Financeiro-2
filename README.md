@@ -26,7 +26,7 @@ Visualização em telas grandes
 ![visualizar em desktop](./public/assets/desktop.png)
 
 ## Abrir Projeto
-[Link demonstração]()  
+[Link demonstração](https://controle-financeiro-software.netlify.app/)  
 Clique no link acima para acessar a aplicação
 
 ## Tecnologias Utilizadas
