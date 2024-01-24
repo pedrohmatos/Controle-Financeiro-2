@@ -39,7 +39,7 @@ Clique no link acima para acessar a aplicação
 
 ## Autor
 Olá meu nome é Pedro Matos.  
-Tenho 20 anos, moro na Bahia e sou apaixonado pelo ambiente de tecnologia. Adoro acompanhar o contexto tecnológico como um todo, tendências e lançamentos globais sobre programas, softwares, aparelhos, jogos, IA, etc. E venho estudando constantemente sobre programação.  
+Sou apaixonado pelo ambiente de tecnologia. Adoro acompanhar o contexto tecnológico como um todo, tendências e lançamentos globais sobre programas, softwares, aparelhos, jogos, IA, etc. E venho estudando constantemente sobre programação.  
 
 Entre em contato comigo:  
 
